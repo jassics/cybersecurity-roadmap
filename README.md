@@ -9,9 +9,9 @@ Resources for Cybersecurity concepts including web security , network security, 
 5.  Container Security
 6.  DevSecOps
 7.  Security Interview Questions
-   1. Application Security Interview Questions
-   1. AWS Security Interview Questions
-   1. Web Security Interview Questions
-   1. Network Secuirty Interview Questions
-   1. DevSecOps Interview Questions
-   1. Container Security Interview Questions
+    1. Application Security Interview Questions
+    2. AWS Security Interview Questions
+    3. Web Security Interview Questions
+    4. Network Security Interview Questions
+    5. DevSecOps Interview Questions
+    6. Container Security Interview Questions
