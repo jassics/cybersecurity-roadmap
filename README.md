@@ -39,16 +39,21 @@ If you think there's something that should be improved here, **_please [create a
 5. **Don't hesitate to buy books, it's the best investment**: I still see people look for fre materials. I am not saying its bad, but would you work for free even for an hour? No right? So, if someone has spent time to author the book or tutorials, try to appreciate their efforts by buying it whenever possible for you.
     I would suggest to buy some important printed books which you would feel to refer now and then. 
     Like Threat Modeling by Adam Shostack, WAHH by Stuttard Pinto, Secure Code, Real-World Cryptography by Davind Wong
-6. **Github can be one way to be updated and share your learnings** 
-7. **Be humble and help others**: 
+6. **Github can be one way to be updated and share your learnings**: I have observed that majority of security professionals like to share their thoughts or collaborate with other like-minded people through a version control system and github is the most popular one for that. If you are not aware of git and got commands try [My Github Basics course on Udemy](https://www.udemy.com/course/git-basics-for-everyone) (Ask for discount)
+7. **Be humble and help others**: With my personal experience I am saying when you are humble and ready to help other you will get help from unknown faces too.That's Karma ;)
 8. **Don't look for shortcuts**: Straight no to dumps, proxy interview, proxy certs etc.
-9. **Spend some bucks to upgrade your skills**: through youtube, coursera, udacity, acloud, pluralsight: 
+9. **Spend some bucks to upgrade your skills**: Update yourself and learn the security concepts, subject etc from various online free or paid sources like youtube, coursera, udacity, acloud.guru, pluralsight, Linkedin Learn
 10. **Give credits to the author**:  If you learn something. Say thanks, like, share, comment subscribe whatever can be the way for gratitude.
 11. **Get yours hands dirty**: This determines how much technical and in-depth understanding you have for your expertise area. 
 Something new comes up, explore it, dig it further and practice in your local machine or in your personal cloud instance.
 12. **At last, Never Give up**: Believe me you will need it the most to succeed in this domain. 
 There would be time when you would be frustrated and would feel depressed even after giving too much in security. 
 Learn not to give up, no matter whatever happens. Because you have chosen it out of your interest or passion, stick to it.
+
+## ToDo List Priority wise
+- [x] Update README Page for final version 
+- [ ] Update Content to Common Skills page
+- [ ] Add Content to Security Concepts page
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).

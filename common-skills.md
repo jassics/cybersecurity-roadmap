@@ -6,6 +6,8 @@ It hardly matters whether you are into SoC role or Network Security or AppSec or
 3. [Python or Go](#python-or-go)
 4. [Computer Networks basics](#computer-networks-basics)
 
+Check my video on Youtube on [Top Tech Skills you should learn](https://www.youtube.com/watch?v=dTZ69l844JM)
+
 ## Linux Commands
 You don't need to be Linux nerd as a security professional but good hands-on over all linux commands would make you a better security person. 
 Below are the three things which I think you should be good at.
