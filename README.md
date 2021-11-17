@@ -5,7 +5,7 @@ Either you are planning or already into this domain, you can use this as your  r
 We will cover what are the skill sets, learning resources, job titles available, JDs etc. for cybersecurity folks.
 Cybersecurity covers all the security branches at present, so I would mention cybersecurity or security in this repo time to time.
 
-![Cybersecurity Skills and Career Roadmap](Cybersecurity-skills-roadmap.png)
+![Cybersecurity Skills and Career Roadmap](images/cybersecurity-skills-roadmap.png)
 >Always remember no one is perfect and learning and unlearning every single day is the key for the success. 
 Although in security domain what you need more is the patience and never give up attitude.
 
@@ -54,6 +54,13 @@ Learn not to give up, no matter whatever happens. Because you have chosen it out
 - [x] Update README Page for final version 
 - [ ] Update Content to Common Skills page
 - [ ] Add Content to Security Concepts page
+- [ ] Add Content to Web Security page
+- [ ] Add Content to Cloud Security page
+- [ ] Add Content to Network Security page
+- [ ] Add Content to Software Security page
+- [ ] Add Content to DevSecOps page
+- [ ] Add Content to Container Security page
+- [ ] Add content to Cybersecurity JDs for different job roles and skills required
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).

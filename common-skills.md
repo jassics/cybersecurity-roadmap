@@ -1,3 +1,5 @@
+![Common Skills](images/common-skills.png)
+
 It hardly matters whether you are into SoC role or Network Security or AppSec or Cloud Security and so on, there are some common skill sets you should learn and be good at those.
 You may skip one or two common skills, if you are aspiring for Risk & Compliance profile (I am not covering anything for them in this repo as of now).
 
@@ -53,7 +55,17 @@ These are the commands which are really helpful for security folks.
 I use these commands a lot for my projects and security activities. Think these commands are for basic information gathering phase active or passive
 
 **Some of those Linux Commands are:**
-ping, host, dig, nslookup, traceroute, nmap, tcpdump, whois, wget, curl, ifconfig
+1. ping:
+2. host:
+3. dig:
+4. nslookup:
+5. traceroute:
+6. nmap:
+7. tcpdump:
+8. whois:
+9. wget:
+10. curl:
+11. ifconfig: 
 
 ## Shell Scripting
 Basic understanding of shell scripting can be common for security engineers. There will be a time where you would need to automate something quickly and if you know linux commands, writing shell script for those tasks would be the quickest part for you.
@@ -68,9 +80,41 @@ Many exploits, PoC and useful security scripts are written in shell script as we
 You might find something of your interest on [github](https://github.com/search?l=Shell&q=security&type=Repositories)
 
 ## Python or Go
+Data primitives
+Function
+Control and loop statements
+Understand list and dictionary very well
 
 ## Computer Networks Basics
 
+What is this OSI model
+Understand TCP/IP model
+IPv4 concept and various address formats, CIDR being one example. Understand CIDR range very well. cidr.xyz
+If a website or IP address is given, you should be able to gather minimal information using various linux commands or through online resource.
+How HTTPs works howhttps.works
+How DNS works howdns.works
+For other useful networking commands, check Internet and Networking Commands section above.
+
+Think on any of such scenario or concept by keeping security in mind.
+
 ## Git Basics
 
+git clone
+git add
+git commit
+git pull
+git push
+git config
+.gitignore
+
 ## Cloud Computing Fundamentals
+How Cloud Computing is different from Traditional Computing.
+What are the various service models and deployment models.
+Learn any famous Cloud service provider fundamentals like AWS, Azure, GCP
+How you store data in Cloud
+How Data security is covered in Cloud
+What is Cloud Native solutions
+How Logging and Monitoring works here
+How you would analyse what's going in Cloud at a central place
+How Cloud Security works and what problem it solves
+How to secure your Cloud environment better
