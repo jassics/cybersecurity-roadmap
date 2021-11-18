@@ -47,3 +47,9 @@ Vulnerabilities
 Exploits
 
 Risk
+
+Ping Flood
+
+HTTP Header Smuggling
+
+Cache Poisoning

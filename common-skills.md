@@ -55,9 +55,9 @@ These are the commands which are really helpful for security folks.
 I use these commands a lot for my projects and security activities. Think these commands are for basic information gathering phase active or passive
 
 **Some of those Linux Commands are:**
-1. ping:
-2. host:
-3. dig:
+1. ping: Common command that you use when internet is not working ;) Use ping to check if ip or website is reachable. 
+2. host: for DNS lookup. mostly we use host domain-name or host ip
+3. dig: I consider dig as a big B of host ;)
 4. nslookup:
 5. traceroute:
 6. nmap:
@@ -66,6 +66,8 @@ I use these commands a lot for my projects and security activities. Think these 
 9. wget:
 10. curl:
 11. ifconfig: 
+
+I will add more details in [Network Security Skills page](network-security.md)
 
 ## Shell Scripting
 Basic understanding of shell scripting can be common for security engineers. There will be a time where you would need to automate something quickly and if you know linux commands, writing shell script for those tasks would be the quickest part for you.
@@ -80,41 +82,54 @@ Many exploits, PoC and useful security scripts are written in shell script as we
 You might find something of your interest on [github](https://github.com/search?l=Shell&q=security&type=Repositories)
 
 ## Python or Go
-Data primitives
-Function
-Control and loop statements
-Understand list and dictionary very well
+1. Data primitives 
+2. Function 
+3. Control and loop statements 
+4. Understand list and dictionary very well
+5. List Comprehension
+6. zip and map function
+7. use of argparse
+8. Some useful libraries for security pentest or automation purposes like:
+   1. requests
+   2. os
+   3. regex
+   4. python-nmap
+   5. scapy
+   6. cryptography (hazmat also referred as Hazardous Material)
+   7. BeautifulSoup4
+   8. faker
 
 ## Computer Networks Basics
 
-What is this OSI model
-Understand TCP/IP model
-IPv4 concept and various address formats, CIDR being one example. Understand CIDR range very well. cidr.xyz
-If a website or IP address is given, you should be able to gather minimal information using various linux commands or through online resource.
-How HTTPs works howhttps.works
-How DNS works howdns.works
-For other useful networking commands, check Internet and Networking Commands section above.
+1. What is this OSI model 
+2. Understand TCP/IP model 
+3. IPv4 concept and various address formats, CIDR being one example. Understand CIDR range very well. cidr.xyz
+If a website or IP address is given, you should be able to gather minimal information using various linux commands or through online resource. 
+4. How HTTPs works: [howhttps.works](https://howhttps.works/) 
+5. How DNS works: [howdns.works](https://howdns.works/)
 
+For other useful networking commands, check Internet and Networking Commands section above.
 Think on any of such scenario or concept by keeping security in mind.
 
 ## Git Basics
 
-git clone
-git add
-git commit
-git pull
-git push
-git config
-.gitignore
+1. git clone 
+2. git add 
+3. git commit 
+4. git pull 
+5. git push 
+6. git config 
+7. .gitignore
 
 ## Cloud Computing Fundamentals
-How Cloud Computing is different from Traditional Computing.
-What are the various service models and deployment models.
-Learn any famous Cloud service provider fundamentals like AWS, Azure, GCP
-How you store data in Cloud
-How Data security is covered in Cloud
-What is Cloud Native solutions
-How Logging and Monitoring works here
-How you would analyse what's going in Cloud at a central place
-How Cloud Security works and what problem it solves
-How to secure your Cloud environment better
+1. How Cloud Computing is different from Traditional Computing. 
+2. What are the various service models and deployment models. 
+3. Learn any famous Cloud service provider fundamentals like AWS, Azure, GCP 
+4. How you store data in Cloud 
+5. How Data security is covered in Cloud 
+6. What is Cloud Native solutions 
+7. How Logging and Monitoring works here 
+8. How you would analyse what's going in Cloud at a central place 
+9. How Cloud Security works and what problem it solves 
+10. How to secure your Cloud environment better
+11. How IAM (Identity and Access Management) helps to aid Cloud Security in general
