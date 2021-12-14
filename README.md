@@ -11,7 +11,7 @@ Although in security domain what you need more is the patience and never give up
 
 **This github repo will cover below items:**
 1. [Security concepts one should be aware](security-concepts.md)
-2. [Other Technical skills one should learn](common-skills.md)
+2. [Common Technical skills one should learn](common-skills.md)
 3. [Web Security skill sets](web-security.md)
 4. [Network Security skill sets](network-security.md)
 5. [Software Security](software-security.md)
