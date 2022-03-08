@@ -52,7 +52,7 @@ Learn not to give up, no matter whatever happens. Because you have chosen it out
 
 ## ToDo List Priority wise
 - [x] Update README Page for final version 
-- [ ] Update Content to Common Skills page
+- [x] Update Content to Common Skills page
 - [ ] Add Content to Security Concepts page
 - [ ] Add Content to Web Security page
 - [ ] Add Content to Cloud Security page
