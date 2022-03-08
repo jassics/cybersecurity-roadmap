@@ -1,21 +1,4 @@
-#Security Abbreviations and terminologies
-
-## Common Security Definitions
-* Threat: 
-* Risk: 
-* Vulnerability: 
-* Patch: 
-* Firewall: 
-* Confidentiality: 
-* Integrity: 
-* Availability: 
-* Authenticity: 
-* Non-Repudiation: 
-* Public: freely shared information
-* Confidential: any data leakage, loss or damage of which can cause harm to data originator, owner, company or customer
-* Sensitive: any data leakage, loss or damage of which can cause significant harm to data originator, owner, company or customer
-
-## Security Abbreviations
+# Security Abbreviations
 * EDR: Endpoint Detection and Response
 * PII: Personally Identifiable Information
 * GDPR: General Data Protection Regulation
@@ -43,11 +26,22 @@
 * CIPP - Certified Information Privacy Professional
 * SOC: System and Organisation Control
 * CyberSETA: Cybersecurity Education Training and Awareness
-* OWASP: 
-* OSAMM: 
-* BSIMM:
+* OWASP: Open Web Application Security Project
+* OSAMM: OWASP Software Assurance Maturity Model
+* BSIMM: Building Security In Maturity Model
+* APT: Advanced Persistent Threat
+* AV: Anti-Virus
+* IoT: 
+* VAPT:
+* Pentest:
+* AppSec: 
+* CIS:
+* CIRT:
+* CERT:
+* CISO:
+* CIO:
 
-## Security Controls
+# Security and Compliance Controls
 ISO/IEC 27001:2013 Information security management systems — Requirements
 ISO/IEC 27002:2013 Code of practice for information security controls
 ISO/IEC 27018:2019 Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors
