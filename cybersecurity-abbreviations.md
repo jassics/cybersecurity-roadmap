@@ -22,45 +22,54 @@
 20. CVSS: Common Vulnerability Scoring System
 21. CWPP: Cloud Workload Protection Platform
 22. CyberSETA: Cybersecurity Education Training and Awareness
-23. DDoS: Distributed Denial of Service
-24. DLP: Data Loss Prevention
-25. DNS: Domain Name Server
-26. DoS: Denial of Service
-27. DPO: Data Privacy Officers
-28. DR: Disaster Recovery
-29. EC-Council - International Council of Electronic Commerce Consultants
-30. EDR: Endpoint Detection and Response
-31. FedRAMP: Federal Risk and Authorization Management Program
-32. FISMA: Federal Information Security Management Act
-33. GDPR: General Data Protection Regulation
-34. GRC: Governance, Risk Management, and Compliance
-35. HIPAA: Health Insurance Portability and Accountability Act
-36. IAM: Identity and access management
-37. IAPP: International Association of Privacy Professionals
-38. IDS: Intrusion Detection System
-39. IoT: Internet of Things
-40. IPS: Intrusion Prevention System
-41. IR: Incident Response
-42. ISACA - Information System Audit and Control Association
-43. (ISC)² - International Information System Security Certification Consortium
-44. ISO/IEC: International Organization for Standardization/International Electrotechnical Commission
-45. MTD: Maximum Tolerable Downtime (RTO + WRT)
-46. NIST: National Institute of Standards and Technology
-47. OSAMM: OWASP Software Assurance Maturity Model
-48. OWASP: Open Web Application Security Project
-49. PCI-DSS: Payment Card Industry Data Security Standard
-50. Pentest: Penetration Testing
-51. PII: Personally Identifiable Information
-52. PITR: Point in time Recovery
-53. RPO: Recovery Point Objective
-54. RTO: Recovery Time Objective
-55. SANS: System Administration, Networking, and Security Institute
-56. SIEM - Security Information and Events Management (SIM + SEM)
-57. SOC: System and Organisation Control
-58. SOX: Sarbanes–Oxley Act
-59. VAPT: Vulnerability Assessment and Penetration testing
-60. VPN: Virtyal Private Network
-61. WRT: Work Recovery Time
+23. DAST: Dynamic Application Security Testing
+24. DDoS: Distributed Denial of Service
+25. DLP: Data Loss Prevention
+26. DNS: Domain Name Server
+27. DoS: Denial of Service
+28. DPO: Data Privacy Officers
+29. DR: Disaster Recovery
+30. EC-Council - International Council of Electronic Commerce Consultants
+31. EDR: Endpoint Detection and Response
+32. FedRAMP: Federal Risk and Authorization Management Program
+33. FISMA: Federal Information Security Management Act
+34. GDPR: General Data Protection Regulation
+35. GRC: Governance, Risk Management, and Compliance
+36. HIPAA: Health Insurance Portability and Accountability Act
+37. IAM: Identity and access management
+38. IAPP: International Association of Privacy Professionals
+39. IAST: Interactive Application Security Testing
+40. IDS: Intrusion Detection System
+41. IoT: Internet of Things
+42. IPS: Intrusion Prevention System
+43. IR: Incident Response
+44. ISACA - Information System Audit and Control Association
+45. (ISC)² - International Information System Security Certification Consortium
+46. ISO/IEC: International Organization for Standardization/International Electrotechnical Commission
+47. MTD: Maximum Tolerable Downtime (RTO + WRT)
+48. NIST: National Institute of Standards and Technology
+49. OSAMM: OWASP Software Assurance Maturity Model
+50. OWASP: Open Web Application Security Project
+51. PAM: Privilege Access Management
+52. PCI-DSS: Payment Card Industry Data Security Standard
+53. Pentest: Penetration Testing
+54. PII: Personally Identifiable Information
+55. PITR: Point in time Recovery
+56. RASP: Runtime Application Self-Protection
+57. RPO: Recovery Point Objective
+58. RTO: Recovery Time Objective
+59. SANS: System Administration, Networking, and Security Institute
+60. SAST: Static Application Security Testing
+61. SIEM: Security Information and Events Management (SIM + SEM)
+62. SOAR: Security Orchestration, Automation and Response
+63. SOC: System and Organisation Control
+64. SOX: Sarbanes–Oxley Act
+65. SRA: Security Risk Assessment
+66. SSL: Secure Socket Layer
+67. TLS: Transport Layer Security
+68. VAPT: Vulnerability Assessment and Penetration testing
+69. VPN: Virtual Private Network
+70. WRT: Work Recovery Time
 
 # Security and Compliance Controls
 ISO/IEC 27001:2013 Information security management systems — Requirements
