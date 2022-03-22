@@ -1,11 +1,58 @@
 # Common or Famous Cybersecurity Certifications
 
-1. CISA:
-2. CISM:
-3. CISSP:
-4. CSSLP:
-5. CEH:
-6. ECSA:
-7. OSCP:
-8. CDP:
-9. 
+## ISC2
+* CISSP: Certified Information System Security Professional
+* CSSLP: Certified Software Security Lifecycle Professional
+* CCSP: Certified Cloud Security Professional
+* SSCP: System Security Certified Practitioner
+
+## CSA
+* CCSK: Certificate of Cloud Security Knowledge
+* CCAK: Certificate of Cloud Auditing Knowledge
+
+## IAPP
+* CIPP: Certified Information Privacy Professional
+* CIPM: Certified Information Privacy Manager
+* CIPT: Certified Information Privacy Technologist
+
+## CompTIA
+* CompTIA Security+
+* CompTIA CySA+: CompTIA Cybersecurity Analyst
+* CompTIA Pentest+
+* CompTIA CASP+: CompTIA Advanced Security Practitioner
+
+## EC-Council
+* CEH: Certified Ethical Hacker
+* CHFI: Computer Hacking Forensic Investigator
+* ECSA: EC-Council Certified Security Analyst
+* CASE.NET: Certified Application Security Engineer in .NET
+* CASE Java: Certified Application Security Engineer in Java
+
+## SANS
+* GCIH: GIAC Certified Incident Handler
+* GPEN: GIAC Penetration Tester
+* GCPN: GIAC Cloud Penetration tester
+* GISP: GIAC Information Security Professional
+* GWEB: GIAC Certified Web Application Defender
+* GCSA: GIAC Cloud Security Automation
+* GWAPT: GIAC Web Application Penetration Tester
+
+## Offensive Security
+* OSCP: Offensive Security Certified Professional
+* OSWP: Offensive Security Wireless Professional
+* OSEP: Offensive Security Experienced Penetration Tester
+* OSWA: Offensive Security Web Assessor
+* OSWE: Offensive Security Web Expert
+
+## eLearn Security
+* eWPT: eLearnSecurity Web Application Penetration Tester
+* eWPTXv2: eLearnSecurity Web application Penetration Tester eXtreme
+* eJPT: eLearnSecurity Junior Penetration Tester
+* eCPTX: eLearnSecurity Certified Penetration Tester eXtreme
+* eCPPTv2: eLearnSecurity Certified Professional Penetration Tester
+
+## Practical DevSecOps
+* CDP: Certified DevSecOps Professional
+* CDE: Certified DevSecOp Expert
+* CDL: Certified DevSecOp Leader
+* CDA: Certified DevSecOp Architect
