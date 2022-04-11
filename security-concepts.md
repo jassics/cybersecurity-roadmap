@@ -1,55 +1,61 @@
-CIA triad
+# Common or Important Security Concepts that you should be aware of
 
-Knowledge on different types of attacks like ransomeware, botnet attacks
+## Common Security Concepts
+### CIA Triads
+### AuthN and AuthZ
+### MFA
+### 2FA
+### OAuth2.0
+### SSO
+### OIDC and SAML
+### Malware
+### Virus
+### Ransomware
+### Spam and Phishing
+### Social Engineering
+### Password Attacks
+### Threats
+### Vulnerabilities
+### Exploits
+###Risk
 
-How SSL works
+## Web Security
+### OWASP Top 10
+### XSS
+### Injection Attack
+### CSRF
+### SSRF
+### HTTP Header Smuggling
+### Session Fixation
 
-What is Authentication and Authorization
+## Application Security
 
-MFA
+## Network Security
+### How SSL/TLS works
+### How DNS works
+### TCP 3 way handshake
+### Firewall
+### DoS and DDoS
+### Ping Flood
+### Cache Poisoning
 
-TCP 3 way handshake
+## Cloud Security
+### Shared Responsibility
+### IAM
+### CSPM
+### CASB
+### CWPP
 
-OIDC
+## Cryptography
+### Encryption and Decryption
+### Hashing
+### Encoding and Decoding
+### Salt
 
-SAML
 
-Hashing, Encoding, Encryption
 
-Salt
 
-Phishing and Spam
 
-Social Engineering
 
-XSS
 
-Injection attack
 
-Password attacks
-
-CSRF
-
-SSRF
-
-Firewall
-
-IAM
-
-Malware, virus, worm trojans
-
-DoS and DDos
-
-Threats
-
-Vulnerabilities
-
-Exploits
-
-Risk
-
-Ping Flood
-
-HTTP Header Smuggling
-
-Cache Poisoning
