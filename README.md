@@ -1,5 +1,5 @@
 # Cybersecurity Skills and Career Roadmap
-Skills and Career Roadmap for Cybersecurity Professionals. 
+Skills and Career Roadmap for Cybersecurity Professionals.
 
 Either you are planning or already into this domain, you can use this as your  reference for various skill sets, job details, security concepts and general guidance.
 We will cover what are the skill sets, learning resources, job titles available, JDs etc. for cybersecurity folks.
@@ -53,6 +53,9 @@ Learn not to give up, no matter whatever happens. Because you have chosen it out
 ## ToDo List Priority wise
 - [x] Update README Page for final version 
 - [x] Update Content to Common Skills page
+- [x] Cybersecurity Abbreviations
+- [x] Cybersecurity Certifications
+- [ ] Cybersecurity Terminologies
 - [ ] Add Content to Security Concepts page
 - [ ] Add Content to Web Security page
 - [ ] Add Content to Cloud Security page

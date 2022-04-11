@@ -1,4 +1,4 @@
-# Security Abbreviations
+# Security Abbreviations 
 
 1. AppSec: Application Security
 2. ACL: Access Control List 
