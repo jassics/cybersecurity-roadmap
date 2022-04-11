@@ -1,4 +1,4 @@
-# Common Cyberecurity Terminologies & Definitions
+# Common Cyberecurity Terminologies & Definitions 
 
 * Threat: 
 * Risk: 

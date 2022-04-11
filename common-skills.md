@@ -4,14 +4,14 @@ It hardly matters whether you are into SoC role or Network Security or AppSec or
 You may skip one or two common skills, if you are aspiring for Risk & Compliance profile (I am not covering anything for them in this repo as of now).
 
 **These skills are:**
-1. [Linux Commands](#linux)
+1. [Linux Commands](#linux-commands)
 2. [Shell Scripting](#shell-scripting)
 3. [Python or Go](#python-or-go)
 4. [Computer Networks basics](#computer-networks-basics)
-5. [Git Bascis](#git-basics)
+5. [Git Basics](#git-basics)
 6. [Cloud Computing Fundamentals](#cloud-computing-fundamentals)
 
-Check my video on Youtube: [Top Tech Skills you should learn](https://www.youtube.com/watch?v=dTZ69l844JM)
+Check my video on YouTube: [Top Tech Skills you should learn](https://www.youtube.com/watch?v=dTZ69l844JM)
 
 ## Linux Commands
 You don't need to be Linux nerd as a security professional but good hands-on over all linux commands would make you a better security person. 
@@ -21,7 +21,7 @@ _I am not mentioning any Security based Linux OS here, because if you are using 
 Also, will not mention anything related to System or OS Security Architecture and it's design_
 
 ### 1. Understand Linux structure and its permission
-What I understand so far is that in whichever cybersecurity role you are, you would need to work with Linux machine directly or indirectly. So, why not to learn Linux basics as the first skill towards getting closer to cybsersecurity world.
+What I understand so far is that in whichever cybersecurity role you are, you would need to work with Linux machine directly or indirectly. So, why not to learn Linux basics as the first skill towards getting closer to cybersecurity world.
 1. Understand how file structure and different permissions work.
 2. What are the commands related to permission changes, access controls etc.
 3. Where you can upload something malicious, what's this /tmp, /opt, /bin, /etc ...
@@ -137,9 +137,7 @@ Learn more about git commands essentials through my course on [Udemy](https://ww
 ## Cloud Computing Fundamentals
 Can we avoid cloud computing at present. I guess, No. So, let's try to learn as much as possible.
 
-Ask yourself question like below as much as possible: 
-
-## Cloud Computing Fundamentals
+Ask yourself question like below as much as possible:
 1. How Cloud Computing is different from Traditional Computing. 
 2. What are the various service models and deployment models. 
 3. Learn any famous Cloud service provider fundamentals like AWS, Azure, GCP 

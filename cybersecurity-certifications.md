@@ -1,4 +1,4 @@
-# Common or Famous Cybersecurity Certifications
+# Common or Famous Cybersecurity Certifications 
 
 ## CompTIA
 * CompTIA Security+
