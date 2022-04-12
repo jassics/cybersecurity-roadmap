@@ -14,7 +14,7 @@ If you are interviewing someone for Application Security Engineer role, could be
 You can always start questions based on the person's experience in AppSec. However, below questions can be always interesting and will help you to understand the candidate better technically.
 Soft skills, team player, presentation skills, communication skills are out of the scope of this space.
 
-## What do you think about the good password?
+## 1. What do you think about the good password?
     
 This question looks very similar, but can help the interviewer to understand if the person has experience with password management related skills or not. 
     
@@ -25,7 +25,7 @@ This question will help you to drill down to more specific questions to understa
    4. Do you use salt? Is it same for all the password? is it random in nature per user?
    5. How do you make your code safe for password attacks?
 
-## How do you stop bruteforce attack on login/signup/forgot password page(s)?
+## 2. How do you stop bruteforce attack on login/signup/forgot password page(s)?
 This question helps you to understand if the person is aware of secure code development and secure design for such features and how far he/she can think.
 Check if the person talks about:
 
@@ -36,7 +36,7 @@ Check if the person talks about:
 5. Alert and Monitor for such anomalous behavior
 6. Account Lockout after n failed attempts
 
-## What happens when you type google.com on browser
+## 3. What happens when you type google.com on browser
 This question is just to check if the person understands the behind the curtain scene like url to IP conversion, DNS involvement, server response and so on.
 Listen the interviewee and see if he/she mentions below things:
 1. How DNS resolves the url 
@@ -44,7 +44,7 @@ Listen the interviewee and see if he/she mentions below things:
 3. How HTTPS work and what's its advantages
 4. How to prevent the application from MiTM (Man in The Middle Attack)
 
-## How SSL/TLS actually makes my content secured over the internet
+## 4. How SSL/TLS actually makes my content secured over the internet
 This question is the extension of previous question to understand if the person understands:
 
 1. How client server hello established
@@ -58,7 +58,7 @@ This question is the extension of previous question to understand if the person 
 9. What is PFS (Perfect Forward Secrecy) and why it is used?
 10. Why https enabled website still gets hacked?
 
-## How you would make developers aware and involved for secure code development?
+## 5. How you would make developers aware and involved for secure code development?
 This question would help you to understand if the person has delivered any training, presentaed slides, gave demo, delivered secure coding practices workshops.
 See if person talks about:
 
@@ -69,12 +69,59 @@ See if person talks about:
 5. Then you can go little deeper like what difficulties you faced while giving training to them on secure code design, principles etc.
 6. How do you make sure developers follow what you taught or made aware? IDE plugin, git actions, SAST tools etc?
 
-## Which one would you prefer and why? Manual secure code review or automated or both ?
-## Which tools have you used for SAST?
-## What is the difference between SAST and SCA?
-## How well you understand SQLi (SQL Injection)?
-## Do you understand the key difference between encryption, hashing, salt, obfuscation and encoding?
-## What you should check if the website is damn slow suddenly?
-## Explain how do you handle AuthN and AuthZ?
-## How you implemented CSP? Do you think it adds extra security for a web application? How?
-## How do you handle typical developer and security clash sittation?
+## 6. Which one would you prefer and why? Manual secure code review or automated or both ?
+
+## 7. Which tools have you used for SAST?
+
+## 8. What is the difference between SAST and SCA?
+
+## 9. How well you understand SQLi (SQL Injection)?
+See if the person is able to explain:
+
+1. When data becomes code and how to test it
+2. Any specific tool to fasten SQL Injection
+3. Can you spot SQLi from code review
+4. Experience of any SAST tool through which you can verify and validate SQLi
+5. Mitigation for SQLi
+6. Prepared statement in sql injection
+
+## 10. Do you understand the key difference between encryption, hashing, salt, obfuscation and encoding?
+
+## 11. What you should check if the website is damn slow suddenly?
+
+## 12. Explain how do you handle AuthN and AuthZ?
+
+## 13. How do you implement CSP? Do you think it adds extra security for a web application? How?
+
+## 14. Benefits of using SoP, CORS and CSP? 
+
+## 15. How do you handle typical developer and security clash situation?
+
+## 16. List out the techniques used to prevent web server attacks
+Check what all points one can cover and then you can deep dive based on the answer:
+
+1. Patch management
+2. Web Server hardening
+3. Scanning system vulnerability
+4. Custom vs default port
+5. Firewall and other server setting avoiding default settings
+6. Proper alerting and monitoring mechanism
+7. Server log settings
+
+## 17. List out the steps to successful data loss prevention controls.
+See if the interviewee is able to explain below points:
+
+1. Information risk profile 
+2. Assign roles and responsibilities to the technical administrator, incident analyst, auditor and forensic investigator 
+3. Develop the technical risk framework 
+4. Expand the coverage of DLP controls 
+5. Monitor the results of risk reduction
+6. Incident Response, risk severity, playbook etc.
+
+## 18. Where do we need security in SDLC phase?
+
+## 19. What would do you suggest for input sanitization?
+
+## 20. What have you done so far for API Security?
+
+## 21. Why XoR is very important in Crypto world?
