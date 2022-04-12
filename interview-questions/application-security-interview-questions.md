@@ -125,3 +125,11 @@ See if the interviewee is able to explain below points:
 ## 20. What have you done so far for API Security?
 
 ## 21. Why XoR is very important in Crypto world?
+
+## 22. How OAuth works?
+
+## 23. What is SCA and how do you perform SCA?
+
+## 24. What should a developer do for secrets management?
+
+## 25. What is your interesting finding in secure code review?
