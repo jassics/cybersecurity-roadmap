@@ -1,2 +1,6 @@
+# Add contents which needs to ignore
+
+
 .idea
 .idea/*
+
