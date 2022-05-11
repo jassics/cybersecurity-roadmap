@@ -94,21 +94,23 @@ OrgConfigRule – VPCFlowlog-o30sfig, Non_complaint, Acc No: 23135134235
 So above we have an email configured for aggregator test and then got the list of all OrgConfigRule then after that whatever resources are there for that org config rule you need to list out and then send email to users using SES.
 
 ### Logging and Monitoring
-data integrity for cloudtrail logs 
-how to get unencrypted EBS volume(s) in an easy way: config -> filter
-cloudwatch -> metrics filter
+1. Data integrity for cloudtrail logs 
+2. How to get unencrypted EBS volume(s) in an easy way: config -> filter
+3. cloudwatch -> metrics filter
 
 ### Infrastructure security
-EC2 vulnerability patch management in automated way
-What checks AWS Inspector does to figure out instance vulnerabilities
+1. EC2 vulnerability patch management in automated way
+2. What checks AWS Inspector does to figure out instance vulnerabilities
 
 ### Data protection
-KMS key usage: s3 bucket, file download but can’t see the object. what solution do you propose
-CMK keys auto-renew solution after 3 month (key rotation): cloudwatchevent to check it
-What comes to your mind when you have to secure RDS instance?
+1. KMS key usage: s3 bucket, file download but can’t see the object. what solution do you propose
+2. CMK keys auto-renew solution after 3 month (key rotation): cloudwatchevent to check it
+3. What comes to your mind when you have to secure RDS instance?
+4. When encryption by default is not enough?
+5. Would you suggest key rotation? why and what should be the rotation period? Justify.
 
 ### IAM
-Let's say an event is triggered and lambda does something. To make sure it works what you check in IAM
+1. Let's say an event is triggered and lambda does something. To make sure it works what you check in IAM
 
 ### Programming question (Depends on the role)
 A non-decreasing number list is given and a target number. You need to print if target number exists in the list or print the most nearest number to the target number
