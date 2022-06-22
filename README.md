@@ -18,13 +18,7 @@ Although in security domain what you need more is the patience and never give up
 6. [Cloud Security skill sets](cloud-security.md)
 7. [Container Security skill sets](container-security.md)
 8. [DevSecOps skill sets](devsecops.md)
-9. [Security Interview Questions](interview-questions)
-   1. [Application Security Interview Questions](interview-questions/application-security-interview-questions.md)
-   2. [AWS Security Interview Questions](interview-questions/aws-security-interview-questions.md)
-   3. [Web Security Interview Questions](interview-questions/web-security-interview-questions.md)
-   4. [Network Security Interview Questions](interview-questions/network-security-interview-questions.md)
-   5. [DevSecOps Interview Questions](interview-questions/devsecops-interview-questions.md)
-   6. [Container Security Interview Questions](interview-questions/container-security-interview-questions.md)
+9. [Security Interview Questions](https://github.com/jassics/cybersecurity-interview-questions) - Another Fantastic Github Repo
 10. [Various Security Job Role and required skill sets](security-job-roles.md)
 
 **Note:** I am not adding mobile security, AI/ML Security, IoT security, Blockchain Technologies etc. But we can add if someone is interested to contribute on these topics as well.
