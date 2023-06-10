@@ -111,13 +111,6 @@ If a website or IP address is given, you should be able to gather minimal inform
 4. How HTTPs works [howhttps.works](howhttps.works)
 5. How DNS works [howdns.works](howdns.works)
 
-1. What is this OSI model 
-2. Understand TCP/IP model 
-3. IPv4 concept and various address formats, CIDR being one example. Understand CIDR range very well. cidr.xyz
-If a website or IP address is given, you should be able to gather minimal information using various linux commands or through online resource. 
-4. How HTTPs works: [howhttps.works](https://howhttps.works/) 
-5. How DNS works: [howdns.works](https://howdns.works/)
-
 For other useful networking commands, check Internet and Networking Commands section above.
 Think on any of such scenario or concept by keeping security in mind.
 
