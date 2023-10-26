@@ -20,6 +20,7 @@ Although in security domain what you need more is the patience and never give up
 8. [DevSecOps skill sets](devsecops.md)
 9. [Security Interview Questions](https://github.com/jassics/cybersecurity-interview-questions) - Another Fantastic Github Repo
 10. [Various Security Job Role and required skill sets](security-job-roles.md)
+11. [JDs for different cybersecurity skills](/JDs)
 
 **Note:** I am not adding mobile security, AI/ML Security, IoT security, Blockchain Technologies etc. But we can add if someone is interested to contribute on these topics as well.
 
@@ -58,6 +59,7 @@ Learn not to give up, no matter whatever happens. Because you have chosen it out
 - [ ] Add Content to DevSecOps page
 - [ ] Add Content to Container Security page
 - [ ] Add content to Cybersecurity JDs for different job roles and skills required
+- [ ] Add JDs for various security skills
 
 ## Contributors
 [Please refer the guidelines at contribute.md for details](Contribute.md).
