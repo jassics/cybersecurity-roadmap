@@ -23,6 +23,7 @@
 * Social Engineering:
 * OSINT:
 * HUMINT:
+* SIGINT:
 * Penetration Testing:
 * Black Hat:
 * White Hat:
@@ -30,5 +31,11 @@
 * Blue Team:
 * Red Team:
 * Purple Team:
+* Black Team:
 * Crown Jewel:
 * Compliance:
+* DLP (Data Loss Prevention):
+* Threat Intel:
+* EDR:
+* XDR:
+* SIEM:
