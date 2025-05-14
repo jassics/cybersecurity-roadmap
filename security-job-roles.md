@@ -1,21 +1,27 @@
 
-Won't cover CXO level job roles
+# Mainstream and popular job titles
+Note: Won't cover CXO level job roles
+Also, I am adding only those job title that are more often posted on different job portals including LinkedIn.
 
-Security Analyst
+I am listing different titles based on different InfoSec divisions like Product Security, Cloud Security, Application Security, DevSecOps, GRC, Security Strategy, Penetration Testing and so on
 
-(Product) Security Engineer
+## Product Security
+This is like a combination of 2-3 security skill sets like AppSec, CloudSec mainly
 
-Application Security Engineer
+1. Security Analyst
+2. (Product) Security Engineer
+3. Application Security Engineer
+4. Penetration Tester
+5. Cloud Security Engineer
+6. Security Architect
 
-Penetration Tester
+## SOC
+1. SOC Analyst
+2. SOC Architect
 
-Cloud Security Engineer
+## GRC
+1. Risk Analyst/Risk Manager
 
-Risk Analyst/Risk Manager
-Can cover GRC here
+## Security Engineering
+1. Software Security Engineer
 
-Security Architect
-
-Security Operations Expert
-
-SoC Analyst
