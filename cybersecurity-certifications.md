@@ -48,10 +48,15 @@
 * OSWE: Offensive Security Web Expert
 
 ## Practical DevSecOps
-* CDP: Certified DevSecOps Professional
-* CDE: Certified DevSecOp Expert
-* CDL: Certified DevSecOp Leader
-* CDA: Certified DevSecOp Architect
+* (CDP: Certified DevSecOps Professional)[https://www.practical-devsecops.com/certified-devsecops-professional/?fpr=jassics]
+* (CDE: Certified DevSecOp Expert)[https://www.practical-devsecops.com/certified-devsecops-expert/?fpr=jassics]
+* (CASP: Certified API Security Professional)[https://www.practical-devsecops.com/certified-api-security-professional/?fpr=jassics]
+* (CAISP: Certified AI Security Professional)[https://www.practical-devsecops.com/certified-api-security-professional/?fpr=jassics]
+* (CTMP: Certified Threat Modeling Professional)[https://www.practical-devsecops.com/certified-threat-modeling-professional/?fpr=jassics]
+* (CCNSE: Certfied Cloud-Native Security Expert)[https://www.practical-devsecops.com/certified-cloud-native-security-expert/?fpr=jassics]
+* (CCSE: Certified Container Security Expert)[https://www.practical-devsecops.com/certified-container-security-expert/?fpr=jassics]
+* (CSSE: Certified Software Supply Chain Security Expert)[https://www.practical-devsecops.com/certified-software-supply-chain-security-expert/?fpr=jassics]
+* (CSC: Certified Security Champion)[https://www.practical-devsecops.com/certified-security-champion/?fpr=jassics]
 
 ## SANS
 * GCIH: GIAC Certified Incident Handler
