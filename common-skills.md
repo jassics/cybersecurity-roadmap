@@ -1,7 +1,11 @@
 ![Common Skills](images/common-skills.png)
 
+> 📘 Recommended companion study plan: [Common Skills Study Plan](https://github.com/jassics/security-study-plan/blob/main/common-skills-study-plan.md). Tick off each topic as you go.
+
 It hardly matters whether you are into SoC role or Network Security or AppSec or Cloud Security and so on, there are some common skill sets you should learn and be good at those.
-You may skip one or two common skills, if you are aspiring for Risk & Compliance profile (I am not covering anything for them in this repo as of now).
+You may skip one or two common skills, if you are aspiring for Risk & Compliance profile (see [grc-privacy.md](grc-privacy.md) for that track).
+
+> **AI-augmented work is now table stakes.** Across every role in this repo, employers in 2025+ expect you to use LLM-based assistants (Copilot, ChatGPT, Claude, Cursor) productively *and* to know where they're dangerous (hallucinations, leaking secrets, slop-squatted dependencies). Treat AI literacy like Git literacy — non-negotiable.
 
 **These skills are:**
 1. [Linux Commands](#linux-commands)
