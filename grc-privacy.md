@@ -6,6 +6,49 @@ GRC stands for **Governance, Risk, and Compliance**. Add **Privacy** to it, and 
 
 > If you love technical depth and hate paperwork — this is *not* your track. If you love systems thinking, policy, communication, and translating risk to business language — this can be a fantastic, lucrative, long career.
 
+![GRC & Privacy Career Roadmap](images/roadmaps/grc-privacy-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((GRC and Privacy Career))
+    Career Ladder
+      Entry: GRC Analyst
+        Mid: InfoSec GRC Specialist
+          Senior: Senior GRC Manager / Lead
+            Staff: Head of GRC
+              Lead: CISO / vCISO track
+    Specializations
+      Privacy / DPO track
+      Third-Party Risk Management
+      Cyber Risk Quantification
+      IT Auditor
+    Lateral Pivots
+      CISO / vCISO advisory
+      Privacy Engineering
+      Security Awareness and Training
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Big 4**: Deloitte, EY, PwC, KPMG
+- **GRC platform vendors**: ServiceNow, OneTrust
+- **Enterprises**: banks, healthcare, insurance
+- **Consultancies**: Accenture
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 5–9 | $60K–85K |
+| Mid | 9–18 | $85K–120K |
+| Senior | 18–35 | $120K–160K |
+| Staff | 35–60 | $160K–210K |
+| Lead | 60L+ | $210K+ |
+
 ## Who is this for?
 - IT auditors, internal auditors looking to specialize in security/privacy
 - Lawyers / paralegals moving toward technology

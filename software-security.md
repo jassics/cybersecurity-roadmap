@@ -4,6 +4,48 @@
 
 Software Security is **code-level** security — the deepest end of the AppSec spectrum. This is where you read source code, do threat modeling, build secure libraries, fix systemic vulnerability classes, and influence the SDLC. It overlaps heavily with Application Security but tilts more toward **engineering and design** than testing.
 
+![Software Security Career Roadmap](images/roadmaps/software-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Software Security Career))
+    Career Ladder
+      Entry: Junior Software Security Engineer
+        Mid: Software Security Engineer
+          Senior: Senior Software Security Engineer
+            Staff: Principal Software Security Engineer
+              Lead: Head of Software Security
+    Specializations
+      Application Security / Pentesting
+      Vulnerability Research / Exploit Dev
+      Secure SDLC Engineer
+    Lateral Pivots
+      AppSec / Pentesting
+      Vulnerability Research
+      DevSecOps
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Product & platform companies** (any language stack)
+- **Security vendors**: Snyk, Veracode, Checkmarx
+- **Consultancies**: NCC Group
+- **Enterprises**: fintech, gaming, OS/browser vendors
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–11 | $75K–100K |
+| Mid | 11–22 | $100K–140K |
+| Senior | 22–42 | $140K–180K |
+| Staff | 42–75 | $180K–230K |
+| Lead | 75L+ | $230K+ |
+
 ## Software Security vs. Application Security
 | Aspect | Software Security | Application Security |
 |--------|------------------|----------------------|

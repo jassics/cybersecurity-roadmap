@@ -10,6 +10,49 @@ Cryptography Engineering is a **specialized, math-flavored, deeply technical** c
 
 This roadmap focuses on **Cryptography Engineering**. The research path is briefly noted at the end.
 
+![Cryptography Engineering Career Roadmap](images/roadmaps/cryptography-engineering-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Cryptography Engineering Career))
+    Career Ladder
+      Entry: Junior Cryptography Engineer
+        Mid: Cryptography Engineer
+          Senior: Senior Cryptography Engineer
+            Staff: Principal Cryptography Engineer
+              Lead: Cryptographer / Cryptanalyst
+    Specializations
+      Post-Quantum Cryptography Migration
+      Confidential Computing Engineer
+      Privacy Engineer
+      Blockchain / Web3 Cryptography
+    Lateral Pivots
+      Application Security
+      Backend Software Engineering
+      Security Architect
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Cloud providers**: AWS, Google, Microsoft
+- **Security vendors**: Signal, HashiCorp
+- **Fintech / payments companies**
+- **Research labs & academia**
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 8–14 | $90K–120K |
+| Mid | 14–28 | $120K–160K |
+| Senior | 28–50 | $160K–210K |
+| Staff | 50–90 | $210K–270K |
+| Lead | 90L+ | $270K+ |
+
 ## Who is this for?
 - AppSec / software engineers fascinated by crypto bugs and protocol design
 - Security engineers in BFSI, payments, identity, blockchain, or messaging

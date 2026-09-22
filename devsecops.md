@@ -4,6 +4,48 @@
 
 DevSecOps sits at the intersection of **Dev + Sec + Ops**. You write code, automate pipelines, and embed security checks where developers will actually use them. It's one of the highest-paying tracks in security right now because the skill blend is genuinely rare.
 
+![DevSecOps Career Roadmap](images/roadmaps/devsecops-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((DevSecOps Career))
+    Career Ladder
+      Entry: Security Automation Engineer, Junior
+        Mid: DevSecOps Engineer
+          Senior: Senior DevSecOps Engineer
+            Staff: Principal DevSecOps Engineer
+              Lead: Head of DevSecOps
+    Specializations
+      Platform Security Engineer
+      Supply Chain Security Engineer
+      Security Tooling Engineer
+    Lateral Pivots
+      Application Security
+      Cloud Security
+      Container / K8s Security
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Any product/engineering-heavy company**
+- **DevOps vendors**: GitLab, GitHub, JFrog
+- **Consultancies**: Accenture, Thoughtworks
+- **Enterprises**: fintech, e-commerce, SaaS
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–11 | $75K–100K |
+| Mid | 12–24 | $100K–140K |
+| Senior | 24–45 | $140K–180K |
+| Staff | 45–75 | $180K–225K |
+| Lead | 75L+ | $225K+ |
+
 ## Who is this for?
 - Developers who care about security
 - DevOps / SRE / Platform engineers moving toward security

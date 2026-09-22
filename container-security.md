@@ -4,6 +4,48 @@
 
 Container Security is a **specialization** rather than a starting domain. People rarely start their career here directly — most enter via DevSecOps, Cloud Security, or SRE backgrounds. But once you're in, demand is high and salaries are competitive.
 
+![Container & Kubernetes Security Career Roadmap](images/roadmaps/container-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Container Security Career))
+    Career Ladder
+      Entry: Junior DevSecOps / Cloud Sec Analyst
+        Mid: Container Security Engineer
+          Senior: Senior Container Security Engineer
+            Staff: Principal Cloud-Native Security Engineer
+              Lead: Head of Platform Security
+    Specializations
+      K8s Security Engineer
+      Supply Chain Security Engineer
+      Runtime Security Specialist
+    Lateral Pivots
+      Cloud Security
+      DevSecOps
+      Supply Chain Security
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Cloud-native vendors**: Wiz, Aqua, Sysdig
+- **Cloud providers**: AWS, Google Cloud
+- **Consultancies**: Accenture, Deloitte
+- **Enterprises**: any Kubernetes-heavy platform team
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–11 | $75K–100K |
+| Mid | 12–24 | $105K–145K |
+| Senior | 24–45 | $145K–185K |
+| Staff | 45–75 | $185K–230K |
+| Lead | 75L+ | $230K+ |
+
 ## Who is this for?
 - DevSecOps / Cloud engineers wanting deeper container expertise
 - SRE / Platform engineers shifting toward security

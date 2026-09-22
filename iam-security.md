@@ -6,6 +6,48 @@ Identity is the **new perimeter**. As workloads moved from datacenters to cloud 
 
 > Most breaches start with **identity compromise** — phishing, credential stuffing, OAuth abuse, helpdesk social engineering, MFA fatigue. If you secure identity well, you cut off the most common attack path.
 
+![Identity & Access Management Career Roadmap](images/roadmaps/iam-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((IAM Career))
+    Career Ladder
+      Entry: IAM Analyst / Junior IAM Engineer
+        Mid: IAM Engineer
+          Senior: Senior IAM Engineer / PAM Engineer
+            Staff: IAM Architect
+              Lead: Director / Head of IAM
+    Specializations
+      Customer Identity (CIAM) Engineer
+      PAM Engineer / Architect
+      CIEM / Workload Identity Engineer
+      Identity Threat Detection and Response
+    Lateral Pivots
+      Cloud Security
+      SOC / Blue Team
+      Application Security
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Identity vendors**: Okta, Microsoft, SailPoint, CyberArk
+- **Consultancies**: Deloitte, Accenture
+- **Enterprises**: any large workforce/SaaS org
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–11 | $70K–95K |
+| Mid | 11–22 | $95K–135K |
+| Senior | 22–42 | $135K–175K |
+| Staff | 42–70 | $175K–220K |
+| Lead | 70L+ | $220K+ |
+
 ## Who is this for?
 - IT / Active Directory / Helpdesk admins moving into security
 - SOC / Blue Team analysts wanting a deeper, more architectural specialization

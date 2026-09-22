@@ -1,6 +1,49 @@
 # Web Security Skills and Career Roadmap
 Web Security is the most common **entry point** into cybersecurity. If you can read code, understand HTTP, and exploit the OWASP Top 10, you can start almost anywhere in AppSec, Pentesting, or DevSecOps.
 
+![Web Security Career Roadmap](images/roadmaps/web-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Web Security Career))
+    Career Ladder
+      Entry: Security Intern / Trainee
+        Mid: Application Security Engineer
+          Senior: Senior AppSec Engineer
+            Staff: Staff AppSec Engineer / Architect
+              Lead: Head of AppSec
+    Specializations
+      Bug Bounty Hunter
+      Web Pentester
+      Secure Code Reviewer
+      Threat Modeling Specialist
+    Lateral Pivots
+      API Security
+      Mobile Security
+      Cloud Security
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Product companies**: any web/SaaS company
+- **Security vendors**: HackerOne, Bugcrowd, Snyk
+- **Consultancies**: NCC Group, Trustwave
+- **Enterprises**: banks, fintechs, e-commerce
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 5–10 | $70K–95K |
+| Mid | 10–20 | $95K–130K |
+| Senior | 20–40 | $130K–170K |
+| Staff | 40–70 | $170K–220K |
+| Lead | 70L+ | $220K+ |
+
 ## Who is this for?
 - Computer Science / IT graduates curious about ethical hacking
 - Developers / QA who want to pivot into security

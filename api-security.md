@@ -6,6 +6,49 @@ API Security has emerged as its own specialty over the last 5 years. Modern apps
 
 > If you're starting fresh, do [web-security.md](web-security.md) first. API security is best learned **after** OWASP Web Top 10.
 
+![API Security Career Roadmap](images/roadmaps/api-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((API Security Career))
+    Career Ladder
+      Entry: API Security Analyst
+        Mid: API Security Engineer
+          Senior: Senior API Security Engineer
+            Staff: API Security Architect
+              Lead: Head of API / AppSec
+    Specializations
+      API Pentester
+      GraphQL Security Specialist
+      API Gateway / WAF Engineer
+      Microservices Security Architect
+    Lateral Pivots
+      Web Security / AppSec
+      Cloud Security
+      DevSecOps
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **API platforms**: Postman, Kong, Salt Security
+- **Product companies**: any API-first SaaS
+- **Consultancies**: Accenture, Deloitte
+- **Enterprises**: banks, fintechs, telcos
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–11 | $70K–95K |
+| Mid | 11–22 | $95K–135K |
+| Senior | 22–42 | $135K–175K |
+| Staff | 42–70 | $175K–220K |
+| Lead | 70L+ | $220K+ |
+
 ## Who is this for?
 - AppSec / Web Pentesters wanting to specialize
 - Backend developers moving into security

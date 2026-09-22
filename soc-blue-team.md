@@ -4,6 +4,49 @@
 
 SOC (Security Operations Center) and the broader Blue Team are the **defensive backbone** of cybersecurity. If offensive security is about *finding* problems, blue team is about *detecting, responding to, and stopping* them — 24×7. Most large enterprises hire blue teamers in much higher numbers than pentesters, so this is one of the **highest-volume entry points** into the industry.
 
+![SOC / Blue Team Career Roadmap](images/roadmaps/soc-blue-team-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((SOC / Blue Team Career))
+    Career Ladder
+      Entry: SOC Analyst L1
+        Mid: SOC Analyst L2 / IR
+          Senior: SOC Analyst L3 / Detection Engineer
+            Staff: SOC Architect / Principal
+              Lead: Director of Security Operations
+    Specializations
+      DFIR
+      Threat Intelligence
+      Detection Engineering
+      Purple Team
+    Lateral Pivots
+      Penetration Testing / Red Team
+      DevSecOps
+      Cloud Security Engineering
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **MSSPs**: Mandiant, CrowdStrike, Secureworks
+- **SIEM/XDR vendors**: Splunk, Microsoft, Palo Alto
+- **Consultancies**: Deloitte, EY
+- **Enterprises**: banks, any regulated org
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 4–8 | $55K–75K |
+| Mid | 8–16 | $75K–110K |
+| Senior | 16–32 | $110K–150K |
+| Staff | 32–55 | $150K–195K |
+| Lead | 55L+ | $195K+ |
+
 ## Who is this for?
 - Freshers / career switchers wanting a fast entry into security (SOC L1 is the most common first job)
 - Sysadmins / network admins moving toward security

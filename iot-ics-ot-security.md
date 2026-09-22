@@ -9,6 +9,48 @@ This page covers two **related but distinct** specializations that are often gro
 
 Both are "hardware-meets-software-meets-network" tracks. Demand is *not* huge in raw headcount (compared to AppSec or SOC), but it's **specialized, well-paid, and one of the harder fields to break into** — which is exactly why it stays valuable.
 
+![IoT / ICS-OT Security Career Roadmap](images/roadmaps/iot-ics-ot-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((IoT / ICS-OT Security Career))
+    Career Ladder
+      Entry: IoT / OT Security Analyst
+        Mid: IoT / ICS-OT Security Engineer
+          Senior: Senior OT Security Engineer
+            Staff: Principal OT Security Engineer
+              Lead: Head of OT / IoT Security
+    Specializations
+      Firmware / Hardware Security Researcher
+      ICS / SCADA Security Engineer
+      OT Threat Hunter
+    Lateral Pivots
+      Mobile Security
+      Network Security / Zero Trust for OT
+      GRC
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Industrial vendors**: Siemens, Schneider Electric
+- **OT security vendors**: Dragos, Claroty
+- **Consultancies**: Deloitte, Accenture
+- **Enterprises**: energy, manufacturing, utilities
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 5–10 | $70K–95K |
+| Mid | 10–20 | $95K–135K |
+| Senior | 20–38 | $135K–175K |
+| Staff | 38–65 | $175K–215K |
+| Lead | 65L+ | $215K+ |
+
 ## IoT vs. ICS / OT — what's the difference?
 | Aspect | IoT | ICS / OT |
 |--------|-----|----------|

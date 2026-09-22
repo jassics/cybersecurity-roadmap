@@ -6,6 +6,56 @@ Unlike domain pages (web, cloud, devsecops), this is a **horizontal track** \u20
 
 > \ud83d\udcd8 Recommended study plan: [Security Architecture Study Plan](https://github.com/jassics/security-study-plan/blob/main/security-architecture-study-plan.md) by Jassics.
 
+![Security Architecture Career Roadmap](images/roadmaps/security-architect-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) \u2014 vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid \u2014 click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Security Architecture Career))
+    Career Ladder
+      Senior Security Engineer
+        Staff / Principal Security Engineer
+          Domain-specific Architect
+            Enterprise / Chief Security Architect
+              CISO / Head of Security
+    Domain Architect Branches
+      Application / Product Security Architect
+      Cloud Security Architect
+      Network / Zero Trust Architect
+      Identity IAM Architect
+      Data Security / Privacy Architect
+      Detection / SOC Architect
+      AI Security Architect
+    IC vs Manager Fork
+      IC track: Principal to Distinguished to Fellow
+      Manager track: Eng Manager to Director to VP
+    Lateral Pivots
+      Engineering Manager / Director
+      Consulting / vCISO
+      Security Sales Engineer / Field CTO
+      Founder
+      Specialist Researcher
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Large enterprises & regulated industries** (any sector)
+- **Cloud providers**: AWS, Microsoft, Google Cloud
+- **Consultancies**: Deloitte, Accenture, EY
+- **Security vendors** seeking Field/Solutions Architects
+
+## Salary bands (indicative \u2014 India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Staff / Principal | 45\u201380 | $180K\u2013240K |
+| Domain Architect | 60\u2013100 | $220K\u2013280K |
+| Chief Architect | 90\u2013150 | $260K\u2013350K |
+| CISO / Head of Security | 100L+ | $300K+ |
+
 ## Who is this for?
 - Senior security engineers (6+ years) who want to design rather than only implement
 - Solutions architects from cloud / enterprise pivoting into security architecture

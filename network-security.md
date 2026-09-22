@@ -4,6 +4,49 @@
 
 Network Security is one of the **oldest and most stable** branches of cybersecurity. Every cloud, datacenter, office, and home depends on networking — so skilled network security engineers are always in demand.
 
+![Network Security Career Roadmap](images/roadmaps/network-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Network Security Career))
+    Career Ladder
+      Entry: NOC Analyst
+        Mid: Network Security Engineer
+          Senior: Senior Network Security Engineer
+            Staff: Network Security Architect
+              Lead: Head of Network Security
+    Specializations
+      Firewall Engineer
+      SD-WAN / SASE Specialist
+      Zero Trust Architect
+      Wireless Security Engineer
+    Lateral Pivots
+      Cloud Security
+      SOC / DFIR
+      Network Pentesting
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Vendors**: Palo Alto Networks, Fortinet, Cisco
+- **Telcos & ISPs**
+- **Consultancies**: Accenture, Deloitte
+- **Enterprises**: banks, large campuses
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 5–9 | $65K–90K |
+| Mid | 9–18 | $90K–125K |
+| Senior | 18–35 | $125K–165K |
+| Staff | 35–60 | $165K–210K |
+| Lead | 60L+ | $210K+ |
+
 ## Who is this for?
 - Network admins / NOC engineers who want to move into security
 - CCNA / Junos / Linux+ certified folks

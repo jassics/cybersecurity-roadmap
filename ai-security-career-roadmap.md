@@ -11,6 +11,48 @@ Two distinct sub-domains exist:
 
 This roadmap focuses primarily on **Security FOR AI**, but most roles will touch both.
 
+![AI / ML Security Career Roadmap](images/roadmaps/ai-security-career-roadmap-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((AI / ML Security Career))
+    Career Ladder
+      Entry: AI/ML Security Analyst
+        Mid: AI Security Engineer
+          Senior: Senior AI Security Engineer
+            Staff: Principal AI Security Engineer
+              Lead: Head of AI Security
+    Specializations
+      ML Security Researcher / LLM Red Teamer
+      AI Governance / Responsible AI Analyst
+      MLSecOps Engineer
+    Lateral Pivots
+      Application Security
+      Cloud Security
+      DevSecOps / MLSecOps
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **AI labs**: OpenAI, Anthropic, Google DeepMind
+- **Cloud providers**: AWS, Microsoft, Google Cloud
+- **Security vendors**: Protect AI, HiddenLayer
+- **Enterprises**: any org shipping GenAI features
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 8–14 | $90K–120K |
+| Mid | 14–28 | $120K–160K |
+| Senior | 28–50 | $160K–200K |
+| Staff | 50–85 | $200K–260K |
+| Lead | 85L+ | $260K+ |
+
 ## Who is this for?
 - AppSec / Cloud / DevSecOps engineers wanting to ride the AI wave
 - ML / Data engineers who want a security-flavored career

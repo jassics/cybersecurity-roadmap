@@ -6,8 +6,49 @@ Cloud Security is the **fastest growing** specialization in cybersecurity. Almos
 
 > Assumption: You are comfortable with Cloud Computing fundamentals (service vs. deployment models, IaaS/PaaS/SaaS) and have hands-on with at least **one** Cloud Service Provider. If not, finish [common-skills.md](common-skills.md) → Cloud Computing Fundamentals first.
 
-![Cloud Security Career Roadmap](images/roadmaps/cloud-security-poster.png)
-> Branching mindmap version (ladder + specializations + pivots): [images/roadmaps/cloud-security-mindmap.md](images/roadmaps/cloud-security-mindmap.md)
+![Cloud Security Career Roadmap](images/roadmaps/cloud-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Cloud Security Career))
+    Career Ladder
+      Entry: Cloud Security Analyst
+        Mid: Cloud Security Engineer
+          Senior: Sr. Cloud Security Engineer / CSPM Engineer
+            Staff: Cloud Security Architect / Principal
+              Lead: Head of Cloud Security
+    Specializations
+      AWS / Azure / GCP Security Specialist
+      CSPM / CNAPP Engineer
+      Cloud IAM Engineer
+      Cloud Detection and Response
+      Multi-cloud Security Architect
+    Lateral Pivots
+      DevSecOps Engineer
+      Container / Kubernetes Security Engineer
+      SRE with Security focus
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Cloud providers**: AWS, Microsoft, Google Cloud
+- **Security vendors**: Palo Alto Networks, Wiz
+- **Consultancies**: Accenture, Deloitte
+- **Enterprises**: any cloud-first product company
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–12 | $75K–100K |
+| Mid | 12–25 | $100K–140K |
+| Senior | 25–45 | $140K–180K |
+| Staff | 45–75 | $180K–230K |
+| Lead | 75L+ | $230K+ |
 
 ## Who is this for?
 - Cloud engineers / SREs / DevOps engineers pivoting into security

@@ -4,6 +4,46 @@ This page maps out the **most common cybersecurity job roles**, grouped by domai
 
 > Note: CXO/Board level roles (CISO, CSO, vCISO) are intentionally kept brief. The focus is on individual contributor (IC) and engineering management tracks that you can actively target from job portals like LinkedIn, Naukri, Indeed.
 
+![Cybersecurity Career Universe](images/roadmaps/security-job-roles-roadmap.png)
+> This is the map of every domain in this repo — open the linked domain page for its own detailed roadmap, ladder, hirers & salary bands.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Cybersecurity Career))
+    Common Ladder Shape
+      Entry: Analyst / Associate
+        Mid: Engineer / Consultant
+          Senior: Senior Engineer / Lead
+            Staff: Staff / Principal / Architect
+              Leadership: Manager / Director / Head / CISO
+    Technical Domains
+      Application / Product Security
+      Offensive Security / Pentesting
+      SOC / Blue Team / Detection
+      Cloud Security
+      DevSecOps / Automation
+      Network Security
+      Container / Kubernetes Security
+      IAM
+      Cryptography Engineering
+    Governance and Emerging
+      GRC
+      Threat Intelligence and Research
+      AI / ML Security
+      Mobile Security
+      IoT / ICS-OT Security
+    Converge At the Top
+      Security Architect / Principal Engineer
+      Security Manager / Director
+      Head of Security / VP
+      CISO / vCISO
+```
+
+</details>
+
 ## How to use this page
 1. Pick the **domain** that interests you (AppSec, Cloud, Network, SOC, GRC, etc.).
 2. Identify your **current level** (Entry / Mid / Senior / Lead).

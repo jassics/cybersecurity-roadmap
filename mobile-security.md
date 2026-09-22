@@ -6,6 +6,49 @@ Mobile Security covers the security of **Android, iOS, and cross-platform apps**
 
 > If you're new to security, start with [Web Security](web-security.md) first. Mobile security is fundamentally **web/API security + platform-specific reverse engineering**. Most mobile vulnerabilities are eventually API issues.
 
+![Mobile Security Career Roadmap](images/roadmaps/mobile-security-roadmap.png)
+> Salary bands above are indicative market ranges (India LPA | US USD) — vary by city, company size, and negotiation.
+
+<details>
+<summary>Branching mindmap (Mermaid — click to expand)</summary>
+
+```mermaid
+mindmap
+  root((Mobile Security Career))
+    Career Ladder
+      Entry: Mobile AppSec Analyst
+        Mid: Mobile Security Engineer
+          Senior: Senior Mobile Security Engineer
+            Staff: Principal Mobile Security Engineer
+              Lead: Head of Mobile Security
+    Specializations
+      Vulnerability Research / Exploit Dev
+      Mobile Malware Analyst
+      App Attestation / Anti-Fraud Engineer
+      Mobile Bug Bounty Hunter
+    Lateral Pivots
+      Application Security
+      API Security
+      Reverse Engineering / Malware Analysis
+```
+
+</details>
+
+## Top hirers (illustrative)
+- **Platform vendors**: Apple, Google
+- **Security vendors**: NowSecure, Zimperium
+- **Consultancies**: NCC Group
+- **Enterprises**: banks, fintech apps, gaming
+
+## Salary bands (indicative — India LPA | US USD, varies by city/company/negotiation)
+| Level | India (LPA) | US (USD) |
+|-------|-------------|----------|
+| Entry | 6–11 | $75K–100K |
+| Mid | 12–24 | $100K–140K |
+| Senior | 24–45 | $140K–180K |
+| Staff | 45–75 | $180K–225K |
+| Lead | 75L+ | $225K+ |
+
 ## Who is this for?
 - Web/API pentesters who want a niche specialization
 - Android / iOS developers pivoting into security
