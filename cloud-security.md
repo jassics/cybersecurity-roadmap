@@ -6,6 +6,9 @@ Cloud Security is the **fastest growing** specialization in cybersecurity. Almos
 
 > Assumption: You are comfortable with Cloud Computing fundamentals (service vs. deployment models, IaaS/PaaS/SaaS) and have hands-on with at least **one** Cloud Service Provider. If not, finish [common-skills.md](common-skills.md) → Cloud Computing Fundamentals first.
 
+![Cloud Security Career Roadmap](images/roadmaps/cloud-security-poster.png)
+> Branching mindmap version (ladder + specializations + pivots): [images/roadmaps/cloud-security-mindmap.md](images/roadmaps/cloud-security-mindmap.md)
+
 ## Who is this for?
 - Cloud engineers / SREs / DevOps engineers pivoting into security
 - AppSec / NetSec engineers expanding into cloud
