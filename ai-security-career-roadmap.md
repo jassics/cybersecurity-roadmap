@@ -178,6 +178,7 @@ mindmap
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - DEF CON AI Village content (free on YouTube)
 - HackTheBox AI/ML challenges, AI Goat
+- [AI security jobs with posted pay (infosecjobs.io)](https://infosecjobs.io/ai-security) - Open AI and LLM security jobs from employers' own job boards, with US posted pay where listed
 
 ## Recommended books / papers
 - *Not with a Bug, But with a Sticker* — Ram Shankar Siva Kumar, Hyrum Anderson
